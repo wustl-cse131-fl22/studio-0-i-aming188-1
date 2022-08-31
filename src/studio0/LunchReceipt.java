@@ -16,6 +16,4 @@ public class LunchReceipt {
 		
 		System.out.println("Your total was: $" + total);
 	}
-	
-	
 }
